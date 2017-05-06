@@ -32,5 +32,8 @@
     <ClCompile Include="CPP Concepts Mini Examples.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="InitializationVsDefinition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
