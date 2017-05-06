@@ -14,15 +14,14 @@ int main()
 	std::cout << a << std::endl;
 	
 	//Variable initialization: Initialize variable b
-	int y = 3;
+	int b = 3;
 	std::cout << b << std::endl;
 
 	//Uninitialized variable: Very bad idea
 	// Visual studio will initialize the contents of the variable to 0 when ompiling in 
 	// debug mode. This does not happen in release mode.
-	int z;
-	std::cout << z << std::endl;
+	int c;
+	std::cout << c << std::endl;
 
 	return 0;
 }
-
