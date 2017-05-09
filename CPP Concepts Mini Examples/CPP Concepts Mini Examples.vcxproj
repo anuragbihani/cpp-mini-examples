@@ -151,6 +151,8 @@
   <ItemGroup>
     <ClCompile Include="CPP Concepts Mini Examples.cpp" />
     <ClCompile Include="InitializationVsDefinition.cpp" />
+    <ClCompile Include="SimpleMultiDemoHelper.cpp" />
+    <ClCompile Include="SimpleMultiplefileDemoMain.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
